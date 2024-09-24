@@ -1,5 +1,5 @@
 
-from .vikingsClasses import Soldier, Viking, Saxon, War
+from vikingsClasses import Soldier, Viking, Saxon, War
 import random
 
 
